@@ -1,0 +1,8 @@
+label:hover{
+    color: #fff;
+}
+
+
+.nav-item:focus{
+    color: #fff;
+}
